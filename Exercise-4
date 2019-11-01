@@ -1,0 +1,7 @@
+# Function that generate - randomly - everytime you call it a correct euro million draw,
+# to use for your next lottery ticket
+# lotto rules pick 5 numbers from 1 to 50 , and two more from 1 to 12
+
+
+
+# Out[162]: [array([23, 30, 41, 22, 33]), array([10,  3])]
