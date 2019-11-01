@@ -1,0 +1,11 @@
+# Q1: generate the rainfall in inches for each day 
+# Q2: number of days without rain 
+# Q3: Day with more than 0.5 inches rain
+# Q4: Rainy days with <0.1 inches rain
+
+#Precip
+
+# Q5: Median precip on rainy 
+# Q6: Median precip on summer day in 2014 
+# Q7: Maximum precip on summer  days in 2014 (inches)
+# Q8: Media precip on non-summer rainy days (inches)
