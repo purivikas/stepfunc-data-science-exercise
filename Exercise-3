@@ -1,0 +1,5 @@
+
+Q1  '''Takes a list of floats values and returns a list with reciprocals of the numb 
+        in the list and puts the value NaN when the value it is reciprocating is 0'''
+        
+Q2   Do using numpay 
