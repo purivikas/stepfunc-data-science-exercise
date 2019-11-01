@@ -4,7 +4,18 @@ Q1  '''Takes a list of floats values and returns a list with reciprocals of the 
 
 # example: [4,0,1] returns [0.25, 'Nan',1]
 
-Q2   Do above using numpay   
+Q2   Do above using numpay
+
+Q3   Make it a big list 
+
+#example: big_array=np.random.randint(1,100,size=1000000)
+#         big_array_list=list(big_array)
+
+
+Q4  Run code from Q1 and Q2 using big list and time them
+
+# comparing timing of same task with list or numpy 
+
 
 
 
